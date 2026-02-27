@@ -57,7 +57,7 @@ Website resmi PT ZEN dibuat menggunakan:
 ## 🚀 Cara Menjalankan Website
 
 1. Clone repository:
-   git clone https://github.com/ptzenbdg/ptzenbdg.github.git
+   git clone https://github.com/ptzenbdg/ptzenbdg.github.io
 
 2. Masuk ke folder project
 3. Klik dua kali file `index.html`
